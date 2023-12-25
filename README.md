@@ -1,4 +1,4 @@
-<h1>Accompany</h1>
+<h1>Good Luck! ZeusMystery</h1>
 
 
 <p align="center">
